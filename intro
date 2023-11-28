@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Sharvani Ramini</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+</head>
+<body>
+    <header>
+        <!-- Navigation bar or header section -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <!-- Add more navigation links as needed -->
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <!-- Main content section -->
+        <section class="intro">
+            <div class="bio">
+                <h1>Sharvani Ramini</h1>
+                <img src="profile-picture.jpg" alt="Your Profile Picture">
+                <p>Short Bio - Motivated, teamwork-oriented, and responsible Data Analyst with significant experience in increasing comprehension of reports and presentations by the average professional. Highly educated, possessing a Bachelor's, a Master's, and professional certification in business analytics and statistics. </p>
+                <p>Contact: your-email@domain.com</p>
+            </div>
+        </section>
+        
+        <!-- Other sections or content can be added here -->
+    </main>
+
+    <footer>
+        <!-- Footer section -->
+        <p>&copy; 2023 sharvani ramini</p>
+    </footer>
+</body>
+</html>
